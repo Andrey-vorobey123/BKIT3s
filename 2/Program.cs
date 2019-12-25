@@ -37,7 +37,7 @@ namespace _2
         }
         static void ClearScreen()
         {
-            Console.WriteLine("Нажмите enter для продолжения ...");
+            Console.WriteLine("Нажмите enter для продолжeния ...");
             Console.ReadLine();
             Console.Clear();
         }
