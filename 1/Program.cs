@@ -10,7 +10,7 @@ namespace _1
     {
         static void Main(string[] args)
         {
-            Console.Title = "Кобяк Андрей ИУ5-32Б";
+            Console.Title = "Кобяк Aндрей ИУ5-32Б";
             double a = 0, b = 0, c = 0, x1 = 0, x2 = 0;
             string A, B, C;
             if (args == null)
