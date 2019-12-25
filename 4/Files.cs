@@ -21,7 +21,7 @@ namespace Files
         private void button1_Click(object sender, EventArgs e)
         {
             OpenFileDialog fd = new OpenFileDialog();
-            fd.Filter = "Text files|*.txt";
+            fd.Filter = "Tеxt files|*.txt";
 
             if (fd.ShowDialog() == DialogResult.OK)
             {
